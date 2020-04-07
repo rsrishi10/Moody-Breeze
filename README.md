@@ -1,4 +1,4 @@
 # Moody Breeze
 
 
-This is a music player which i made with the help of Python by importing module like Tkinter, Pygame, sqlite and mutagen.
+A music player which is coded in Python with the help of libraries like Tkinter, Pygame, sq-lite and mutagen.
